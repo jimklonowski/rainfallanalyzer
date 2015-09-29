@@ -1,0 +1,8 @@
+c:\users\jimmy\documents\visual studio 2013\Projects\CS341-HW5\CS341-HW5\bin\Release\CS341_HW5.exe.config
+c:\users\jimmy\documents\visual studio 2013\Projects\CS341-HW5\CS341-HW5\bin\Release\CS341_HW5.XML
+c:\users\jimmy\documents\visual studio 2013\Projects\CS341-HW5\CS341-HW5\bin\Release\CS341_HW5.exe
+c:\users\jimmy\documents\visual studio 2013\Projects\CS341-HW5\CS341-HW5\bin\Release\CS341_HW5.pdb
+c:\users\jimmy\documents\visual studio 2013\Projects\CS341-HW5\CS341-HW5\bin\Release\FSharp.Core.dll
+c:\users\jimmy\documents\visual studio 2013\Projects\CS341-HW5\CS341-HW5\bin\Release\FSharp.Core.xml
+c:\users\jimmy\documents\visual studio 2013\Projects\CS341-HW5\CS341-HW5\obj\Release\CS341_HW5.exe
+c:\users\jimmy\documents\visual studio 2013\Projects\CS341-HW5\CS341-HW5\obj\Release\CS341_HW5.pdb
